@@ -1,0 +1,997 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\usuarioinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\usuarioinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\models\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\models\\ventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\detalleventainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\detalleventainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\ventainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\ventainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\icomprasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\icomprasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\inventarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\inventarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\inventarioinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\inventarioinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\productoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\productoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\rolinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\rolinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\almacenupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\almacenupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\almaceninsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\almaceninsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\almacendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\almacendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\proveedorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\proveedorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\marcaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\marcaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\proveedorinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\proveedorinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\categoriaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\categoriaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\categoriainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\categoriainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\marcainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\marcainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\abelp\\source\\repos\\sistemainventario\\sistemainventario\\dto\\rolupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C739A-7075-49FB-9DB3-3DB6C7BE9E3C}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\dto\\rolupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T16:15:59.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:30:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T02:52:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T21:30:02.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:59:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\UsuarioLoginDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\UsuarioLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T03:04:39.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\UsuarioInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\UsuarioInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:22:41.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlmacenController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\AlmacenController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\AlmacenController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\AlmacenController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\AlmacenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T22:51:15.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowKQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:40:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\MarcaController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:02:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwHAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:29:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:29:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Controllers\\RolController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:08:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IAlmacenRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IAlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IAlmacenRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IAlmacenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:53:58.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:27:30.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\AlmacenRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\AlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\AlmacenRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\AlmacenRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:45:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:05:34.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IMarcaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IMarcaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IMarcaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IMarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:00:59.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\MarcaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\MarcaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\MarcaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\MarcaRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:47:45.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IProveedorRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IProveedorRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:27:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ProveedorRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\ProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ProveedorRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\ProveedorRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:11:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:38:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:14:53.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IRolRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:40:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\RolRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\RolRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:14:35.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:40:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeToolTip": "SistemaInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:46:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T02:06:25.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetalleVentaInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\DetalleVentaInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\DetalleVentaInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\DetalleVentaInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\DetalleVentaInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T23:25:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VentaInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\VentaInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\VentaInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\VentaInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\VentaInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T23:25:06.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ventum.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Models\\Ventum.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Models\\Ventum.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Models\\Ventum.cs",
+              "RelativeToolTip": "SistemaInventario\\Models\\Ventum.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:04:33.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetalleVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\DetalleVentaDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\DetalleVentaDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\DetalleVentaDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\DetalleVentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:49:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T02:49:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\CompraRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\CompraRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\CompraRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\CompraRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:23:07.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InventarioUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\InventarioUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\InventarioUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:53:31.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IComprasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IComprasRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IComprasRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IComprasRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IComprasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:28:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IInventarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\IInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\IInventarioRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\IInventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T21:25:57.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InventarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\InventarioDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\InventarioDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:43:46.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\InventarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Repositories\\InventarioRepository.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\Repositories\\InventarioRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Repositories\\InventarioRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:54:40.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventarioInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\InventarioInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\InventarioInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\InventarioInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:52:39.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductoInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProductoInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProductoInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:12:44.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProductoDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:03:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProductoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProductoUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProductoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:14:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:21:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RolInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\RolInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\RolInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:54:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UsuarioUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\UsuarioUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\UsuarioUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\UsuarioUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:23:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:59:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeToolTip": "SistemaInventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T02:48:25.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AlmacenUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\AlmacenUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\AlmacenUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:40:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AlmacenInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\AlmacenInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\AlmacenInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:39:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AlmacenDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\AlmacenDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\AlmacenDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\AlmacenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T13:38:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProveedorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProveedorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProveedorUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:10:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProveedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProveedorDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:02:42.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MarcaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\MarcaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\MarcaUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:46:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProveedorInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\ProveedorInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\ProveedorInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\ProveedorInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:01:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoriaUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\CategoriaUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\CategoriaUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:01:52.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CategoriaInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\CategoriaInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\CategoriaInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\CategoriaInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:01:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MarcaInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaInsertDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\MarcaInsertDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaInsertDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\MarcaInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:46:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MarcaDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\MarcaDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\MarcaDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\MarcaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:45:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RolUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolUpdateDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\RolUpdateDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolUpdateDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\RolUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:07:32.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RolDto.cs",
+              "DocumentMoniker": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolDto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\DTO\\RolDto.cs",
+              "ToolTip": "C:\\Users\\abelp\\source\\repos\\SistemaInventario\\SistemaInventario\\DTO\\RolDto.cs",
+              "RelativeToolTip": "SistemaInventario\\DTO\\RolDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:53:44.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
